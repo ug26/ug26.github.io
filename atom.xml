@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ug26.top</id>
+    <id>https://www.ug26.top</id>
     <title>ug26</title>
-    <updated>2020-12-06T17:49:42.297Z</updated>
+    <updated>2020-12-06T17:53:35.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ug26.top"/>
-    <link rel="self" href="https://ug26.top/atom.xml"/>
+    <link rel="alternate" href="https://www.ug26.top"/>
+    <link rel="self" href="https://www.ug26.top/atom.xml"/>
     <subtitle>一个兴趣使然的博客</subtitle>
-    <logo>https://ug26.top/images/avatar.png</logo>
-    <icon>https://ug26.top/favicon.ico</icon>
+    <logo>https://www.ug26.top/images/avatar.png</logo>
+    <icon>https://www.ug26.top/favicon.ico</icon>
     <rights>All rights reserved 2020, ug26</rights>
     <entry>
         <title type="html"><![CDATA[好耶，是新博客]]></title>
-        <id>https://ug26.top/hao-ye-shi-xin-bo-ke/</id>
-        <link href="https://ug26.top/hao-ye-shi-xin-bo-ke/">
+        <id>https://www.ug26.top/hao-ye-shi-xin-bo-ke/</id>
+        <link href="https://www.ug26.top/hao-ye-shi-xin-bo-ke/">
         </link>
         <updated>2020-12-06T15:34:14.000Z</updated>
     </entry>
